@@ -14,7 +14,7 @@ This is a webpage that displays a schedule with the regular working hours of 9-5
 ## Installation
 
 run the site either on you own hosting or on the link here:
-    https://ghostdads.github.io/Week-5-challenge
+    https://ghostdads.github.io/week-5-challenge/
 
 ## Usage
 
